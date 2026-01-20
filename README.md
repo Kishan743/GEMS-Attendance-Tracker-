@@ -36,3 +36,32 @@ Students who use the **GEMS student portal** and want a quick, clear view of the
 1. Download this repository as ZIP  
 2. Extract the ZIP file  
 3. Open Chrome and go to:
+
+    chrome://extensions
+
+4. Enable **Developer mode** (top right)
+5. Click **Load unpacked**
+6. Select the extracted folder
+
+---
+
+## 🚀 How to Use
+
+1. Log in to the GEMS student portal  
+2. Open the attendance page  
+3. Click **📊 Attendance Summary**
+4. View your overall and subject-wise attendance instantly
+
+---
+
+## ⚠️ Notes
+
+- This extension is designed specifically for the current GEMS portal layout
+- If the portal UI changes, selectors may need updates
+- Works only after you log in to GEMS
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
