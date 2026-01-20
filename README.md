@@ -1,5 +1,6 @@
 # GEMS Attendance Tracker
 
+![Attendance Summary](screenshot.png)
 A lightweight Chrome extension for students of **Madanapalle Institute of Technology & Science (MITS)** to view attendance in a clean, simple, and distraction-free way.
 
 ---
